@@ -1,31 +1,34 @@
 public class session {
 
 
-    private String name;
-    private String No;
+    private String sessionNo;
+    private String classNo;
+    private String status;
+    private String instructionMode;
+    private String courseLocation;
+    private String professor = "unknown";
+    private String dateRange;
     private String weekdays;
-    private time time;
-    private String professor;
-    private String location;
+    private String time;
+    private String room = "unknown";
+    private boolean isLecture;
 
-    public session(String name, String No, String weekdays, String start, String end, String professor, String location){
-        this.name = name;
-        this.No = No;
-        this.weekdays = weekdays;
-        this.time = new time(start, end);
-        this.professor = professor;
-        this.location = location;
-    }
+    public session(String classNo, String sessionNo, String status, String instructionMode, String courseLocation, String component, String other){
+        this.classNo = classNo;
+        this.sessionNo = sessionNo;
+        this.status = status;
+        this.instructionMode = instructionMode;
+        this.courseLocation = courseLocation;
 
-    private class time{
-        private String start;
-        private String end;
-        private time(String start, String end){
-            this.start = start;
-            this.end = end;
-
+        if (component.contains("lecture")){
+            this.isLecture = true;
         }
-    }
+        else{
+            this.isLecture = false;
+        }
+        
 
+
+    }
 
 }
