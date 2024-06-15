@@ -1,0 +1,3219 @@
+CORE-UA 105 Quantitative Reasoning: Elementary Statistics,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 107 Quantitative Reasoning: Prob,Stats & Decisn-Mkng,College of Arts and Science
+CORE-UA 107,Class#: 13419,Class#: 13419
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 107,Class#: 13420,Class#: 13420
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 107,Class#: 13421,Class#: 13421
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 107,Class#: 13422,Class#: 13422
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 107,Class#: 13423,Class#: 13423
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 109 Quantitative Reasoning: Math & Computing,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 110 Quantitative Reasoning: Great Ideas in Mathematics,College of Arts and Science
+CORE-UA 110,Class#: 13720,Class#: 13720
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 110,Class#: 13721,Class#: 13721
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 110,Class#: 13722,Class#: 13722
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 110,Class#: 13723,Class#: 13723
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 110,Class#: 13724,Class#: 13724
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 111 Quantitative Reasoning: From Data to Discovery,College of Arts and Science
+CORE-UA 111,Class#: 13730,Class#: 13730
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 111,Class#: 13731,Class#: 13731
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 111,Class#: 13732,Class#: 13732
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 111,Class#: 13733,Class#: 13733
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 111,Class#: 13734,Class#: 13734
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 203 Physical Science: Energy & The Environment,College of Arts and Science
+CORE-UA 203,Class#: 13424,Class#: 13424
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 203,Class#: 13425,Class#: 13425
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13426,Class#: 13426
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13427,Class#: 13427
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13428,Class#: 13428
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13429,Class#: 13429
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13430,Class#: 13430
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13431,Class#: 13431
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 203,Class#: 13432,Class#: 13432
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13433,Class#: 13433
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13434,Class#: 13434
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13435,Class#: 13435
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13436,Class#: 13436
+Session: 1 09/03/2024 - 12/12/2024
+Section: 015
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 203,Class#: 13437,Class#: 13437
+Session: 1 09/03/2024 - 12/12/2024
+Section: 016
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 204 Physical Science: Einstein's Universe,College of Arts and Science
+CORE-UA 204,Class#: 13438,Class#: 13438
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 204,Class#: 13439,Class#: 13439
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 204,Class#: 13440,Class#: 13440
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 204,Class#: 13441,Class#: 13441
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 204,Class#: 13442,Class#: 13442
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 204,Class#: 13443,Class#: 13443
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 204,Class#: 13444,Class#: 13444
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 209 Physical Science: Quarks to Cosmos,College of Arts and Science
+CORE-UA 209,Class#: 13445,Class#: 13445
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 209,Class#: 13446,Class#: 13446
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 209,Class#: 13447,Class#: 13447
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 209,Class#: 13448,Class#: 13448
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 209,Class#: 13449,Class#: 13449
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 209,Class#: 13450,Class#: 13450
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 209,Class#: 13451,Class#: 13451
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 210 Physical Science: Molecules of Life,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 214 Physical Science: How Things Work,College of Arts and Science
+CORE-UA 214,Class#: 13452,Class#: 13452
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 214,Class#: 13453,Class#: 13453
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 214,Class#: 13454,Class#: 13454
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 214,Class#: 13455,Class#: 13455
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 214,Class#: 13456,Class#: 13456
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 214,Class#: 13457,Class#: 13457
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 214,Class#: 13458,Class#: 13458
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 303 Life Science: Human Genetics,College of Arts and Science
+CORE-UA 303,Class#: 13459,Class#: 13459
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 303,Class#: 13460,Class#: 13460
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13461,Class#: 13461
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13462,Class#: 13462
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13463,Class#: 13463
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13464,Class#: 13464
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13465,Class#: 13465
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13466,Class#: 13466
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13467,Class#: 13467
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13468,Class#: 13468
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13469,Class#: 13469
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13470,Class#: 13470
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 303,Class#: 13471,Class#: 13471
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 305 Life Science: Human Origins,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 306 Life Science: Brain and Behavior,College of Arts and Science
+CORE-UA 306,Class#: 13472,Class#: 13472
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 306,Class#: 13473,Class#: 13473
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 306,Class#: 13474,Class#: 13474
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 306,Class#: 13475,Class#: 13475
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 306,Class#: 13476,Class#: 13476
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 306,Class#: 13477,Class#: 13477
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 306,Class#: 13478,Class#: 13478
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Open,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 310 Life Science: Molecules of Life,College of Arts and Science
+CORE-UA 310,Class#: 13479,Class#: 13479
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 310,Class#: 13480,Class#: 13480
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 310,Class#: 13481,Class#: 13481
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 310,Class#: 13482,Class#: 13482
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 310,Class#: 13483,Class#: 13483
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 310,Class#: 13484,Class#: 13484
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+CORE-UA 310,Class#: 13485,Class#: 13485
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Laboratory,Closed,Instruction Mode:,Course Location: Washington Square,Component: Laboratory
+
+
+
+CORE-UA 311 Life Science: Lessons From The Biosphere,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 312 Life Science: Earth, Life & Time,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 313 Life Science: The Brain, A User's Guide,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 316 Life Science: Designer Genes - Reshaping our Biological Future,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 400 Texts & Ideas:
+AI and Its Discontents
+Abandoned Women
+Children and Childhood
+Cosmopolitan Imagination
+Justice and Injustice
+Life as a Journey
+Literature and Automatic Invention
+Media and Democracy
+Subversion
+The Black Radical Tradition
+The Meaning of Life
+Ugly Feelings in Latin America
+Utopias and Dystopias,College of Arts and Science
+Topic: The Meaning of Life,Class#: 13565,Class#: 13565
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: The Meaning of Life,Class#: 13566,Class#: 13566
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Meaning of Life,Class#: 13567,Class#: 13567
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Meaning of Life,Class#: 13568,Class#: 13568
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Meaning of Life,Class#: 13569,Class#: 13569
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Meaning of Life,Class#: 13570,Class#: 13570
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Meaning of Life,Class#: 13571,Class#: 13571
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13572,Class#: 13572
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: AI and Its Discontents,Class#: 13573,Class#: 13573
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13574,Class#: 13574
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13575,Class#: 13575
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13576,Class#: 13576
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13577,Class#: 13577
+Session: 1 09/03/2024 - 12/12/2024
+Section: 015
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13578,Class#: 13578
+Session: 1 09/03/2024 - 12/12/2024
+Section: 016
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13579,Class#: 13579
+Session: 1 09/03/2024 - 12/12/2024
+Section: 017
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: AI and Its Discontents,Class#: 13580,Class#: 13580
+Session: 1 09/03/2024 - 12/12/2024
+Section: 018
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13581,Class#: 13581
+Session: 1 09/03/2024 - 12/12/2024
+Section: 020
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Life as a Journey,Class#: 13581,Class#: 13581
+Session: 1 09/03/2024 - 12/12/2024
+Section: 020
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Life as a Journey,Class#: 13582,Class#: 13582
+Session: 1 09/03/2024 - 12/12/2024
+Section: 021
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13583,Class#: 13583
+Session: 1 09/03/2024 - 12/12/2024
+Section: 022
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13584,Class#: 13584
+Session: 1 09/03/2024 - 12/12/2024
+Section: 023
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13585,Class#: 13585
+Session: 1 09/03/2024 - 12/12/2024
+Section: 024
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13586,Class#: 13586
+Session: 1 09/03/2024 - 12/12/2024
+Section: 025
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13586,Class#: 13586
+Session: 1 09/03/2024 - 12/12/2024
+Section: 025
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13587,Class#: 13587
+Session: 1 09/03/2024 - 12/12/2024
+Section: 026
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13588,Class#: 13588
+Session: 1 09/03/2024 - 12/12/2024
+Section: 027
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Life as a Journey,Class#: 13589,Class#: 13589
+Session: 1 09/03/2024 - 12/12/2024
+Section: 028
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13590,Class#: 13590
+Session: 1 09/03/2024 - 12/12/2024
+Section: 030
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Justice and Injustice,Class#: 13591,Class#: 13591
+Session: 1 09/03/2024 - 12/12/2024
+Section: 031
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13591,Class#: 13591
+Session: 1 09/03/2024 - 12/12/2024
+Section: 031
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13592,Class#: 13592
+Session: 1 09/03/2024 - 12/12/2024
+Section: 032
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13593,Class#: 13593
+Session: 1 09/03/2024 - 12/12/2024
+Section: 033
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13594,Class#: 13594
+Session: 1 09/03/2024 - 12/12/2024
+Section: 034
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Justice and Injustice,Class#: 13596,Class#: 13596
+Session: 1 09/03/2024 - 12/12/2024
+Section: 036
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13597,Class#: 13597
+Session: 1 09/03/2024 - 12/12/2024
+Section: 040
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Children and Childhood,Class#: 13597,Class#: 13597
+Session: 1 09/03/2024 - 12/12/2024
+Section: 040
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Children and Childhood,Class#: 13598,Class#: 13598
+Session: 1 09/03/2024 - 12/12/2024
+Section: 041
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13599,Class#: 13599
+Session: 1 09/03/2024 - 12/12/2024
+Section: 042
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13600,Class#: 13600
+Session: 1 09/03/2024 - 12/12/2024
+Section: 043
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13601,Class#: 13601
+Session: 1 09/03/2024 - 12/12/2024
+Section: 044
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13602,Class#: 13602
+Session: 1 09/03/2024 - 12/12/2024
+Section: 045
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13602,Class#: 13602
+Session: 1 09/03/2024 - 12/12/2024
+Section: 045
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Children and Childhood,Class#: 13603,Class#: 13603
+Session: 1 09/03/2024 - 12/12/2024
+Section: 046
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13613,Class#: 13613
+Session: 1 09/03/2024 - 12/12/2024
+Section: 060
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Subversion,Class#: 13614,Class#: 13614
+Session: 1 09/03/2024 - 12/12/2024
+Section: 061
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13615,Class#: 13615
+Session: 1 09/03/2024 - 12/12/2024
+Section: 062
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13616,Class#: 13616
+Session: 1 09/03/2024 - 12/12/2024
+Section: 063
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13617,Class#: 13617
+Session: 1 09/03/2024 - 12/12/2024
+Section: 064
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13618,Class#: 13618
+Session: 1 09/03/2024 - 12/12/2024
+Section: 065
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Subversion,Class#: 13619,Class#: 13619
+Session: 1 09/03/2024 - 12/12/2024
+Section: 066
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13620,Class#: 13620
+Session: 1 09/03/2024 - 12/12/2024
+Section: 070
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Abandoned Women,Class#: 13621,Class#: 13621
+Session: 1 09/03/2024 - 12/12/2024
+Section: 071
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13622,Class#: 13622
+Session: 1 09/03/2024 - 12/12/2024
+Section: 072
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13623,Class#: 13623
+Session: 1 09/03/2024 - 12/12/2024
+Section: 073
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13624,Class#: 13624
+Session: 1 09/03/2024 - 12/12/2024
+Section: 074
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13625,Class#: 13625
+Session: 1 09/03/2024 - 12/12/2024
+Section: 075
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Abandoned Women,Class#: 13626,Class#: 13626
+Session: 1 09/03/2024 - 12/12/2024
+Section: 076
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13627,Class#: 13627
+Session: 1 09/03/2024 - 12/12/2024
+Section: 080
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Cosmopolitan Imagination,Class#: 13628,Class#: 13628
+Session: 1 09/03/2024 - 12/12/2024
+Section: 081
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13629,Class#: 13629
+Session: 1 09/03/2024 - 12/12/2024
+Section: 082
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13630,Class#: 13630
+Session: 1 09/03/2024 - 12/12/2024
+Section: 083
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13631,Class#: 13631
+Session: 1 09/03/2024 - 12/12/2024
+Section: 084
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13632,Class#: 13632
+Session: 1 09/03/2024 - 12/12/2024
+Section: 085
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13633,Class#: 13633
+Session: 1 09/03/2024 - 12/12/2024
+Section: 086
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13634,Class#: 13634
+Session: 1 09/03/2024 - 12/12/2024
+Section: 087
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Cosmopolitan Imagination,Class#: 13635,Class#: 13635
+Session: 1 09/03/2024 - 12/12/2024
+Section: 088
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Literature and Automatic Invention,Class#: 13636,Class#: 13636
+Session: 1 09/03/2024 - 12/12/2024
+Section: 090
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Literature and Automatic Invention,Class#: 13637,Class#: 13637
+Session: 1 09/03/2024 - 12/12/2024
+Section: 091
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Literature and Automatic Invention,Class#: 13638,Class#: 13638
+Session: 1 09/03/2024 - 12/12/2024
+Section: 092
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Literature and Automatic Invention,Class#: 13639,Class#: 13639
+Session: 1 09/03/2024 - 12/12/2024
+Section: 093
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Literature and Automatic Invention,Class#: 13640,Class#: 13640
+Session: 1 09/03/2024 - 12/12/2024
+Section: 094
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Black Radical Tradition,Class#: 13641,Class#: 13641
+Session: 1 09/03/2024 - 12/12/2024
+Section: 100
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: The Black Radical Tradition,Class#: 13642,Class#: 13642
+Session: 1 09/03/2024 - 12/12/2024
+Section: 101
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Black Radical Tradition,Class#: 13643,Class#: 13643
+Session: 1 09/03/2024 - 12/12/2024
+Section: 102
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Black Radical Tradition,Class#: 13644,Class#: 13644
+Session: 1 09/03/2024 - 12/12/2024
+Section: 103
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Black Radical Tradition,Class#: 13645,Class#: 13645
+Session: 1 09/03/2024 - 12/12/2024
+Section: 104
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13646,Class#: 13646
+Session: 1 09/03/2024 - 12/12/2024
+Section: 110
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Ugly Feelings in Latin America,Class#: 13647,Class#: 13647
+Session: 1 09/03/2024 - 12/12/2024
+Section: 111
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13648,Class#: 13648
+Session: 1 09/03/2024 - 12/12/2024
+Section: 112
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13649,Class#: 13649
+Session: 1 09/03/2024 - 12/12/2024
+Section: 113
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13650,Class#: 13650
+Session: 1 09/03/2024 - 12/12/2024
+Section: 114
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13651,Class#: 13651
+Session: 1 09/03/2024 - 12/12/2024
+Section: 115
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Ugly Feelings in Latin America,Class#: 13652,Class#: 13652
+Session: 1 09/03/2024 - 12/12/2024
+Section: 116
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Utopias and Dystopias,Class#: 13653,Class#: 13653
+Session: 1 09/03/2024 - 12/12/2024
+Section: 120
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Utopias and Dystopias,Class#: 13654,Class#: 13654
+Session: 1 09/03/2024 - 12/12/2024
+Section: 121
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Utopias and Dystopias,Class#: 13655,Class#: 13655
+Session: 1 09/03/2024 - 12/12/2024
+Section: 122
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Utopias and Dystopias,Class#: 13655,Class#: 13655
+Session: 1 09/03/2024 - 12/12/2024
+Section: 122
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Utopias and Dystopias,Class#: 13656,Class#: 13656
+Session: 1 09/03/2024 - 12/12/2024
+Section: 123
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Utopias and Dystopias,Class#: 13657,Class#: 13657
+Session: 1 09/03/2024 - 12/12/2024
+Section: 124
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 13658,Class#: 13658
+Session: 1 09/03/2024 - 12/12/2024
+Section: 130
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Media and Democracy,Class#: 13659,Class#: 13659
+Session: 1 09/03/2024 - 12/12/2024
+Section: 131
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 13660,Class#: 13660
+Session: 1 09/03/2024 - 12/12/2024
+Section: 132
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 13661,Class#: 13661
+Session: 1 09/03/2024 - 12/12/2024
+Section: 133
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 13662,Class#: 13662
+Session: 1 09/03/2024 - 12/12/2024
+Section: 134
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 21516,Class#: 21516
+Session: 1 09/03/2024 - 12/12/2024
+Section: 135
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 21530,Class#: 21530
+Session: 1 09/03/2024 - 12/12/2024
+Section: 136
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 21543,Class#: 21543
+Session: 1 09/03/2024 - 12/12/2024
+Section: 137
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Media and Democracy,Class#: 21545,Class#: 21545
+Session: 1 09/03/2024 - 12/12/2024
+Section: 138
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 402 Texts & Ideas: Antiquity & The Renaissance
+Antiquity & The Renaissance,College of Arts and Science
+Topic: Antiquity & The Renaissance,Class#: 13663,Class#: 13663
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Antiquity & The Renaissance,Class#: 13664,Class#: 13664
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Antiquity & The Renaissance,Class#: 13665,Class#: 13665
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Antiquity & The Renaissance,Class#: 13666,Class#: 13666
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Antiquity & The Renaissance,Class#: 13667,Class#: 13667
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Antiquity & The Renaissance,Class#: 13668,Class#: 13668
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Antiquity & The Renaissance,Class#: 13669,Class#: 13669
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 403 Texts & Ideas: Antiquity & The Enlightenment,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 404 Texts & Ideas: Antiquity & The 19th Century,College of Arts and Science
+CORE-UA 404,Class#: 13670,Class#: 13670
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 404,Class#: 13671,Class#: 13671
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13672,Class#: 13672
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13673,Class#: 13673
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13674,Class#: 13674
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13675,Class#: 13675
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13676,Class#: 13676
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13677,Class#: 13677
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 404,Class#: 13678,Class#: 13678
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 500 Cultures & Contexts: Topics
+Global Christianities
+Greco-Roman Egypt
+The Portuguese Sea,College of Arts and Science
+Topic: Global Christianities,Class#: 13486,Class#: 13486
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Global Christianities,Class#: 13487,Class#: 13487
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13488,Class#: 13488
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13489,Class#: 13489
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13490,Class#: 13490
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13491,Class#: 13491
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13491,Class#: 13491
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Christianities,Class#: 13492,Class#: 13492
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13493,Class#: 13493
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Greco-Roman Egypt,Class#: 13494,Class#: 13494
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13495,Class#: 13495
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13496,Class#: 13496
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13497,Class#: 13497
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13498,Class#: 13498
+Session: 1 09/03/2024 - 12/12/2024
+Section: 015
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Greco-Roman Egypt,Class#: 13499,Class#: 13499
+Session: 1 09/03/2024 - 12/12/2024
+Section: 016
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13500,Class#: 13500
+Session: 1 09/03/2024 - 12/12/2024
+Section: 020
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: The Portuguese Sea,Class#: 13501,Class#: 13501
+Session: 1 09/03/2024 - 12/12/2024
+Section: 021
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13502,Class#: 13502
+Session: 1 09/03/2024 - 12/12/2024
+Section: 022
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13503,Class#: 13503
+Session: 1 09/03/2024 - 12/12/2024
+Section: 023
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13504,Class#: 13504
+Session: 1 09/03/2024 - 12/12/2024
+Section: 024
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13505,Class#: 13505
+Session: 1 09/03/2024 - 12/12/2024
+Section: 025
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 13506,Class#: 13506
+Session: 1 09/03/2024 - 12/12/2024
+Section: 026
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 21517,Class#: 21517
+Session: 1 09/03/2024 - 12/12/2024
+Section: 027
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: The Portuguese Sea,Class#: 21529,Class#: 21529
+Session: 1 09/03/2024 - 12/12/2024
+Section: 028
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 502 Cultures & Contexts: Islamic Societies,College of Arts and Science
+CORE-UA 502,Class#: 13686,Class#: 13686
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 502,Class#: 13686,Class#: 13686
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 502,Class#: 13687,Class#: 13687
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13688,Class#: 13688
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13689,Class#: 13689
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13690,Class#: 13690
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13690,Class#: 13690
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13691,Class#: 13691
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 502,Class#: 13692,Class#: 13692
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 506 Cultures & Contexts: Chinese & Japanese Traditions,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 507 Cultures & Contexts: Japan,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 509 Cultures & Contexts: Caribbean,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 510 Cultures and Contexts: Russia Between East and West,College of Arts and Science
+CORE-UA 510,Class#: 13507,Class#: 13507
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 510,Class#: 13508,Class#: 13508
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 13509,Class#: 13509
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 13510,Class#: 13510
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 13511,Class#: 13511
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 13512,Class#: 13512
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 13513,Class#: 13513
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 23220,Class#: 23220
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 510,Class#: 23227,Class#: 23227
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 512 Cultures & Contexts: China,College of Arts and Science
+CORE-UA 512,Class#: 13715,Class#: 13715
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 512,Class#: 13716,Class#: 13716
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 512,Class#: 13717,Class#: 13717
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 512,Class#: 13718,Class#: 13718
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 512,Class#: 13719,Class#: 13719
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 514 Cultures & Contexts: Ancient Israel,College of Arts and Science
+CORE-UA 514,Class#: 13693,Class#: 13693
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 514,Class#: 13694,Class#: 13694
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 514,Class#: 13695,Class#: 13695
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 514,Class#: 13696,Class#: 13696
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 514,Class#: 13697,Class#: 13697
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 515 Cultures & Contexts: Latin America,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 516 Cultures & Contexts: India,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 519 Cultures & Contexts: Indigenous North America,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 525 Cultures & Contexts: Latin America and the Caribbean,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 526 Cultures and Contexts: The Persian Gulf and the Modern World,College of Arts and Science
+CORE-UA 526,Class#: 13514,Class#: 13514
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 526,Class#: 13515,Class#: 13515
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 13516,Class#: 13516
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 13517,Class#: 13517
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 13518,Class#: 13518
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 13519,Class#: 13519
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 13520,Class#: 13520
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 21515,Class#: 21515
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 526,Class#: 21528,Class#: 21528
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 527 Cultures & Contexts: Muslim Spain,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 528 Cultures & Contexts: Russia Since 1917,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 529 Cultures & Contexts: Contemporary Latino Cultures,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 532 Cultures & Contexts: African Diaspora,College of Arts and Science
+CORE-UA 532,Class#: 13698,Class#: 13698
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 532,Class#: 13699,Class#: 13699
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13700,Class#: 13700
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13700,Class#: 13700
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13701,Class#: 13701
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13702,Class#: 13702
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13703,Class#: 13703
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 532,Class#: 13704,Class#: 13704
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 534 Cultures & Contexts: The Black Atlantic,College of Arts and Science
+CORE-UA 534,Class#: 13705,Class#: 13705
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 534,Class#: 13706,Class#: 13706
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 534,Class#: 13707,Class#: 13707
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 534,Class#: 13708,Class#: 13708
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 534,Class#: 13709,Class#: 13709
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 536 Cultures & Contexts: Indigenous Australia,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 537 Cultures & Contexts: Modern Israel,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 539 Cultures & Contexts: Asian / Pacific / American Cultures,College of Arts and Science
+CORE-UA 539,Class#: 20678,Class#: 20678
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 539,Class#: 21514,Class#: 21514
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 20943,Class#: 20943
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21527,Class#: 21527
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21542,Class#: 21542
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21548,Class#: 21548
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21551,Class#: 21551
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21564,Class#: 21564
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 539,Class#: 21645,Class#: 21645
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Cancelled
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Cancelled,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 541 Cultures & Contexts: New World Encounters,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 543 Cultures & Contexts: Korea,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 544 Cultures & Contexts: Spain,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 545 Cultures & Contexts: Egypt of The Pharaohs,College of Arts and Science
+CORE-UA 545,Class#: 13710,Class#: 13710
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 545,Class#: 13711,Class#: 13711
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 545,Class#: 13712,Class#: 13712
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 545,Class#: 13713,Class#: 13713
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 545,Class#: 13714,Class#: 13714
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 546 Cultures & Contexts: Global Asia,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 549 Cultures & Contexts: Multinational Britain,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 553 Cultures & Contexts: Pagan Europe,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 554 Cultures & Contexts: Italy,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 555 Cultures & Context: Brazil,College of Arts and Science
+CORE-UA 555,Class#: 13725,Class#: 13725
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 555,Class#: 13726,Class#: 13726
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 555,Class#: 13727,Class#: 13727
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 555,Class#: 13728,Class#: 13728
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 555,Class#: 13729,Class#: 13729
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 556 Cultures & Contexts: Germany,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 700 Expressive Culture: Topics
+Art and Dance in the 20th Century
+Global Hip Hop,College of Arts and Science
+Topic: Global Hip Hop,Class#: 13521,Class#: 13521
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Global Hip Hop,Class#: 13522,Class#: 13522
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Hip Hop,Class#: 13523,Class#: 13523
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Hip Hop,Class#: 13524,Class#: 13524
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Hip Hop,Class#: 13525,Class#: 13525
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Hip Hop,Class#: 13526,Class#: 13526
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Global Hip Hop,Class#: 13527,Class#: 13527
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Art and Dance in the 20th Century,Class#: 13528,Class#: 13528
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+Topic: Art and Dance in the 20th Century,Class#: 13529,Class#: 13529
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Art and Dance in the 20th Century,Class#: 13530,Class#: 13530
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Art and Dance in the 20th Century,Class#: 13531,Class#: 13531
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+Topic: Art and Dance in the 20th Century,Class#: 13532,Class#: 13532
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 710 Expressive Cult: Words,College of Arts and Science
+CORE-UA 710,Class#: 13533,Class#: 13533
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 710,Class#: 13534,Class#: 13534
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13535,Class#: 13535
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13536,Class#: 13536
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13537,Class#: 13537
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13538,Class#: 13538
+Session: 1 09/03/2024 - 12/12/2024
+Section: 006
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13539,Class#: 13539
+Session: 1 09/03/2024 - 12/12/2024
+Section: 007
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13540,Class#: 13540
+Session: 1 09/03/2024 - 12/12/2024
+Section: 008
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 710,Class#: 13541,Class#: 13541
+Session: 1 09/03/2024 - 12/12/2024
+Section: 009
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 711 Expressive Culture: The Graphic Novel,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 720 Expressive Cult: Images,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 722 Expressive Culture: Architecture in New York Field,College of Arts and Science
+CORE-UA 722,Class#: 13542,Class#: 13542
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+
+
+CORE-UA 724 Expressive Culture: Photography,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 725 Expressive Culture: Architecture,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 730 Expressive Culture: Sounds,College of Arts and Science
+CORE-UA 730,Class#: 13543,Class#: 13543
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 730,Class#: 13544,Class#: 13544
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13545,Class#: 13545
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13546,Class#: 13546
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13547,Class#: 13547
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13548,Class#: 13548
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 730,Class#: 13549,Class#: 13549
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13550,Class#: 13550
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13551,Class#: 13551
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 730,Class#: 13552,Class#: 13552
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 740 Expressive Culture:Performance,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 750 Expressive Culture: Film,College of Arts and Science
+CORE-UA 750,Class#: 13553,Class#: 13553
+Session: 1 09/03/2024 - 12/12/2024
+Section: 001
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Open,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 750,Class#: 13554,Class#: 13554
+Session: 1 09/03/2024 - 12/12/2024
+Section: 002
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Open,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13555,Class#: 13555
+Session: 1 09/03/2024 - 12/12/2024
+Section: 003
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13556,Class#: 13556
+Session: 1 09/03/2024 - 12/12/2024
+Section: 004
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13557,Class#: 13557
+Session: 1 09/03/2024 - 12/12/2024
+Section: 005
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13558,Class#: 13558
+Session: 1 09/03/2024 - 12/12/2024
+Section: 010
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Lecture,Closed,Instruction Mode:,Course Location: Washington Square,Component: Lecture
+
+CORE-UA 750,Class#: 13559,Class#: 13559
+Session: 1 09/03/2024 - 12/12/2024
+Section: 011
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13560,Class#: 13560
+Session: 1 09/03/2024 - 12/12/2024
+Section: 012
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13561,Class#: 13561
+Session: 1 09/03/2024 - 12/12/2024
+Section: 013
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13562,Class#: 13562
+Session: 1 09/03/2024 - 12/12/2024
+Section: 014
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13563,Class#: 13563
+Session: 1 09/03/2024 - 12/12/2024
+Section: 015
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+CORE-UA 750,Class#: 13564,Class#: 13564
+Session: 1 09/03/2024 - 12/12/2024
+Section: 016
+Class Status: Closed
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: Washington Square
+Component: Recitation,Closed,Instruction Mode:,Course Location: Washington Square,Component: Recitation
+
+
+
+CORE-UA 760 Expressive Culture: Topics,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 761 Expressive Culture: La Belle Epoque,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 9111 Quantitative Reasoning: From Data to Discovery,College of Arts and Science
+No Classes Scheduled for the Terms Offered
+
+
+CORE-UA 9203 Energy and the Enviroment,College of Arts and Science
+CORE-UA 9203,Class#: 21001,Class#: 21001
+Session: G0T 08/29/2024 - 12/09/2024
+Section: T01
+Class Status: Open
+Grading: CAS Graded
+Instruction Mode: In-Person
+Course Location: NYU Tel Aviv (Global)
+Component: Lecture,Open,Instruction Mode:,Course Location: NYU Tel Aviv (Global),Component: Lecture
+
+
+
+CORE-UA 9306 
