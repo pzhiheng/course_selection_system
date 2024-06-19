@@ -1,6 +1,7 @@
 import java.util.*;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -12,22 +13,11 @@ public class App {
         ChromeDriver driver = new ChromeDriver();
         PrintWriter out = new PrintWriter("class.txt");
         BufferedWriter bf = new BufferedWriter(out);
-        ArrayList<WebElement> ListOfCourses = new ArrayList<>(); 
         driver.get("https://sis.nyu.edu/psc/csprod/EMPLOYEE/SA/c/NYU_SR.NYU_CLS_SRCH.GBL");
-        //driver.get("https://quotes.toscrape.com/");
         Thread.sleep(30000);
-        /*synchronized (obj) {
-            try {
-                obj.wait(5000); // Must be called within a synchronized block
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }*/
-        //obj.wait(500);
-        //driver.manage().wait(5000);
-        ArrayList<String> testing = new ArrayList<>();
 
         String courseID = "win0divSELECT_COURSE_row$";
-        for (int i = 0 ; i <= 87 ; i ++){
+        for (int i = 0 ; i <= 65 ; i ++){
             try{
                 
                 courseID = courseID + String.valueOf(i);
@@ -35,8 +25,10 @@ public class App {
                 WebElement htmlArea = Course.findElement(By.className("ps_box-htmlarea"));
                 //coursename
                 String CourseName = htmlArea.findElement(By.xpath("./div/span/b")).getText();
+                CourseName = CourseName.replace("\n","");
                 //school
                 String school = Course.findElement(By.xpath("./div/div[2]/span")).getText();
+                school = school.replace("\n","");
                 //session
                 bf.write(CourseName + "," + school);
                 bf.newLine();
@@ -47,24 +39,41 @@ public class App {
                     //first session xpath
                     String time_date_professor = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]")).getText();
                     String classNO = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[1]/b")).getText();
-                    String sessionNO = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[1]")).getText();
-                    String status = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[4]/span[2]")).getText();
-                    String instructionMode = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[6]/span")).getText();
-                    String courseLocation = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[7]")).getText();
-                    String component = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[8]")).getText();
-                    bf.write(classNO+","+sessionNO+","+time_date_professor+","+status+","+instructionMode+","+courseLocation+","+component);
-                    bf.newLine();
+                    //String sessionNO = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[1]")).getText();
+                    //String status = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[4]/span[2]")).getText();
+                    //String instructionMode = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[6]/span")).getText();
+                    //String courseLocation = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[7]")).getText();
+                    //String component = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/div[2]/div[8]")).getText();
+                    WebElement brElement = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/br[1]"));
+
+                    // Use JavaScript to get the text following the <br> element
+                    JavascriptExecutor js = (JavascriptExecutor) driver;
+                    String script = "return arguments[0].nextSibling.nodeValue;";
+                    String room_time = (String) js.executeScript(script, brElement);
+
+                    //String room_time = session.findElement(By.xpath("./div/div/div/table/tbody/tr/td/br[1]")).getText();
+                    
+                    String[] array = time_date_professor.split("\n");
+                    String sessionNo = array[0].substring(8);
+                    String date = array[1].substring(11);
+                    String status = array[3].substring(14);
+                    String instructionMode = array[5].substring(18);
+                    String courseLocation = array[6].substring(17);
+                    String component = array[7].substring(11);
+                    room_time = room_time.substring(24);
+                    room_time.replace("\n","");
+                    room_time = room_time.substring(0,room_time.length()-2);
+                    bf.write(CourseName+","+school+","+classNO+","+sessionNo+","+date+","+room_time+","+instructionMode+","+courseLocation+","+component+","+status);
+                    
                     bf.newLine();
 
                 }
                 courseID = "win0divSELECT_COURSE_row$";
-                bf.newLine();
-                bf.newLine();
-                
 
             }catch(Exception e){
 
                 System.out.println("Element not found or error occurred for index: " + i);
+                System.out.println(e.toString());
             }
         }
 
@@ -96,8 +105,8 @@ public class App {
         System.out.println(e.toString());
 
        }*/
+        Thread.sleep(30000);
         driver.quit();
 
     }
 }
-
