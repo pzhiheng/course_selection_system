@@ -26,6 +26,7 @@ public class App {
                 //coursename
                 String CourseName = htmlArea.findElement(By.xpath("./div/span/b")).getText();
                 CourseName = CourseName.replace("\n","");
+                CourseName = CourseName.replace(",", " ");
                 //school
                 String school = Course.findElement(By.xpath("./div/div[2]/span")).getText();
                 school = school.replace("\n","");
